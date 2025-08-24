@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">NLP and LLMs - Lab - Build a Sentiment Analyis Classifier</span>
+  <span class="headline">NLP and LLMs Sentiment Analyis Classifier</span>
 </h1>
 
 
